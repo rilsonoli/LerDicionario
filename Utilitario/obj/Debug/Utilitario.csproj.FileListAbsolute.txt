@@ -1,0 +1,9 @@
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Utilitario\bin\Debug\Utilitario.dll
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Utilitario\bin\Debug\Utilitario.pdb
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Utilitario\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Utilitario\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Utilitario\obj\Debug\Utilitario.csprojResolveAssemblyReference.cache
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Utilitario\obj\Debug\Utilitario.Contexto.resources
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Utilitario\obj\Debug\Utilitario.csproj.GenerateResource.Cache
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Utilitario\obj\Debug\Utilitario.dll
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Utilitario\obj\Debug\Utilitario.pdb

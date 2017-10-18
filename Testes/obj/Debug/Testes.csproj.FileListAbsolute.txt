@@ -1,0 +1,12 @@
+c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Testes\bin\Debug\Testes.dll
+c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Testes\bin\Debug\Testes.pdb
+c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Testes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Testes\obj\Debug\Testes.csprojResolveAssemblyReference.cache
+c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Testes\obj\Debug\Testes.dll
+c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Testes\obj\Debug\Testes.pdb
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Testes\bin\Debug\Negocio.dll
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Testes\bin\Debug\Utilitario.dll
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Testes\bin\Debug\Negocio.pdb
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Testes\bin\Debug\Utilitario.pdb
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Testes\bin\Debug\LerDicionario.exe
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Testes\bin\Debug\LerDicionario.pdb
