@@ -1,7 +1,7 @@
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Negocio\bin\Debug\Negocio.dll
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Negocio\bin\Debug\Negocio.pdb
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Negocio\obj\Debug\Negocio.dll
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Negocio\obj\Debug\Negocio.pdb
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Negocio\bin\Debug\Negocio.dll
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Negocio\bin\Debug\Negocio.pdb
 C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Negocio\bin\Debug\Utilitario.dll
 C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Negocio\bin\Debug\Utilitario.pdb
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Negocio\obj\Debug\Negocio.dll
+C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Negocio\obj\Debug\Negocio.pdb

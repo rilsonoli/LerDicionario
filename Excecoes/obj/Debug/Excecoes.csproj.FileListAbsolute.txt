@@ -1,7 +1,0 @@
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Excecoes\bin\Debug\Excecoes.dll
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Excecoes\bin\Debug\Excecoes.pdb
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Excecoes\obj\Debug\Excecoes.csprojResolveAssemblyReference.cache
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Excecoes\obj\Debug\Excecoes.dll
-c:\users\rmoliveira\documents\visual studio 2015\Projects\LerDicionario\Excecoes\obj\Debug\Excecoes.pdb
-C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Excecoes\obj\Debug\Excecoes.Contexto.resources
-C:\Users\rmoliveira\Documents\Visual Studio 2015\Projects\LerDicionario\Excecoes\obj\Debug\Excecoes.csproj.GenerateResource.Cache
